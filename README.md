@@ -1,6 +1,7 @@
 # ULTRAKILL your terminal
 
 ![image](https://github.com/clairedotpng/ULTRAKILL-fetch/blob/main/showcase.png)
+(some information was censored)
 
 To use this you need [fastfetch](https://github.com/fastfetch-cli/fastfetch), it's not neofetch but it's better and maintained. I may make a neofetch version soon.
 
